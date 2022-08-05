@@ -1,1 +1,1 @@
-# Trabajo de fin de másster
+# Trabajo de fin de máster
