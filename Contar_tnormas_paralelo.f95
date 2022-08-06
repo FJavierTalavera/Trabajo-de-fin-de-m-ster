@@ -23,7 +23,7 @@ INTEGER :: Tj, Tk, Tjk, mij, Maj
 ! La variable elemento está escrita en la memoria del TFM como v para simplificar la explicación.
 INTEGER(KIND=tipo), ALLOCATABLE:: T(:), A(:,:), elemento(:)
 
-! Para poder leer los ficheros defino las cadenas con los nombres.
+! Para poder leer los ficheros definimos las cadenas con los nombres de los ficheros.
 CHARACTER(LEN=30) :: filename_matriz, filename_elemento, filename_matriz_nueva, filename_elemento_nuevo, escribir_elemento 
 CHARACTER(LEN=30) :: escribir_vector
 
